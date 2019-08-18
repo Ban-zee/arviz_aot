@@ -1,0 +1,11 @@
+README.md
+setup.py
+/home/banzee/.local/lib/python3.6/site-packages/numba/pycc/modulemixin.c
+/home/banzee/.local/lib/python3.6/site-packages/numba/pycc/../_math_c99.c
+/home/banzee/.local/lib/python3.6/site-packages/numba/pycc/../runtime/nrt.c
+aot_arviz.egg-info/PKG-INFO
+aot_arviz.egg-info/SOURCES.txt
+aot_arviz.egg-info/dependency_links.txt
+aot_arviz.egg-info/top_level.txt
+arviz_aot/__init__.py
+arviz_aot/aot.py
